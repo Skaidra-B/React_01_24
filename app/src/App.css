@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+  border: 1px solid;
+}
+.d-flex {
+  display: flex;
+}
+.card {
+  background-color: coral;
+  margin: 2px;
+}
+.column {
+  flex-direction: column;
+}
+.grow1 {
+  flex: 1;
+}
+.toolbar {
+  background-color: grey;
+  height: 100px;
+}
+
+input {
+  width: 300px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+button {
+  width: 300px;
+}
+img {
+  width: 100%;
+  height: 200px;
+}
+.wrap {
+  display: flex;
+  flex-wrap: wrap;
+}
+.j-center {
+  justify-content: center;
+}
+.align-center {
+  text-align: center;
+}
